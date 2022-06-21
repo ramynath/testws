@@ -12,7 +12,7 @@ browserWSEndpoint = data.webSocketDebuggerUrl;
 
 initiatePuppeteer();
 
-document.getElementById("deon-button)
+document.getElementById("deon-button")
 .addEventListener("click", puppetIT);
 
 async function puppetIT(){
